@@ -1,4 +1,4 @@
-# GitHub Profile README for @ungabunga-q
+# Hello Everyone sweeties
 
 Welcome to my GitHub profile! I'm ungabunga-q, a playful and creative space where I explore coding for practice and fun. This profile serves as a sandbox for my experiments and projects, allowing me to learn and grow in the world of programming.
 
